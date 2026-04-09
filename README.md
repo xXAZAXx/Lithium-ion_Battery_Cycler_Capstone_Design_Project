@@ -4,21 +4,21 @@ Designed and developed a low-cost automated single-cell lithium-ion battery cycl
 ### Assembled PCB Hardware
 The completed, soldered PCB used for the battery cycler system.
 
-![Assembled PCB](Battery Cycler Images/Battery_Cycler_PCB.jpg)
+![Assembled PCB](Battery%20Cycler%20Images/Battery_Cycler_PCB.jpg)
 
 ---
 
 ### PCB Schematic & 3D Render (KiCad)
 Schematic and 3D render showing component placement and overall hardware design.
 
-![PCB Design](Battery Cycler Images/PCB Schematic and 3D Render.jpg)
+![PCB Design](Battery%20Cycler%20Images/PCB%20Schematic%20and%203D%20Render.jpg)
 
 ---
 
 ### MATLAB Standalone Application 
 Custom MATLAB App Designer interface used for real-time visualization and analysis of charge/discharge data.
 
-![Custom MATLAB Application](Battery Cycler Images/Custom MATLAB Application for Battery Cycler.jpg)
+![Custom MATLAB Application](Battery%20Cycler%20Images/Custom%20MATLAB%20Application%20for%20Battery%20Cycler.jpg)
 ---
 
 ## Technologies Used
@@ -36,6 +36,10 @@ The system enables reliable and repeatable charge/discharge testing of lithium-i
 
 ## Note
 This project was developed as part of a fourth-year capstone design project at the University of Windsor.
+
+
+
+
 
 
 
